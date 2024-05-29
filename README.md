@@ -67,13 +67,11 @@ Examples of metrics on the HR dashboard include:
  - Step 18 : You can apply filters to the visualizations to focus on specific data subsets. For example, you might filter out weekends to get a clearer picture of weekday trends.
  - Step 19 : You can adjust the time period displayed in the visualizations (e.g., daily vs. monthly). Formatting the date can improve readability (e.g., displaying just the day of the week).
  - Step 20 : Once you have all the desired visualizations arranged and formatted, your Power BI dashboard is complete. 
-![image](https://github.com/egemon98/HR-Analytics/assets/91773966/16f3bae8-ce2d-4015-9034-7c6ca6985278)
 
- 
+
+
  # Report Snapshot (Power BI DESKTOP)
-
- 
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+![image](https://github.com/egemon98/HR-Analytics/assets/91773966/16f3bae8-ce2d-4015-9034-7c6ca6985278)
 
 # Insights
 
