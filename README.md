@@ -1,7 +1,7 @@
 # HR Analytics-Dashboard
 
-### Dashboard Link : [[https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://drive.google.com/file/d/1cuoLk3H2oAAfu86TnnT9tywUsp-TrOEK/view?usp=drive_link)
-](https://drive.google.com/file/d/1OFxfoTsyVzOQwLEV_AjJfaubo1mk8YWE/view?usp=sharing)
+### Dashboard Link : (https://drive.google.com/file/d/1OFxfoTsyVzOQwLEV_AjJfaubo1mk8YWE/view?usp=sharing)
+
 ## Problem Statement
 
 Pinali Mandalia, from AtliQ technologies, manages HR for her company. She currently relies on manually analyzing spreadsheets containing employee attendance data for the past 3 months. This data includes codes for various leave types, such as paid leave (PL) and sick leave (SL).
